@@ -46,19 +46,9 @@ If you use this dataset in your research, please cite it as follows:
 
 ```bibtex
 @dataset{yashaswini_mandayam_rangayyan_2026_20339978,
-  author       = {Yashaswini Mandayam Rangayyan and
-                  Avinash Kumar Singh and
-                  Jigyasa Chand and
-                  Suvitti Suvitti and
-                  Malisetti Gayathri and
-                  Arpit Shrimankar and
-                  Ankita Jain and
-                  Bhuvan Koduru and
-                  Anand Kaniyaar Sriranga Prasad and
-                  Abhay Gupta and
-                  Abhishek Raje and
-                  Kousik Sarathy Sridharan and
-                  Mohan Raghavan},
+  author       = {Yashaswini Mandayam Rangayyan, Avinash Kumar Singh, Jigyasa Chand, Suvitti Suvitti, Malisetti Gayathri, Arpit Shrimankar, Ankita Jain,
+                  Bhuvan Koduru, Anand Kaniyaar Sriranga Prasad, Abhay Gupta,
+                  Abhishek Raje, Kousik Sarathy Sridharan, Mohan Raghavan},
   title        = {GATI-GPT : Gait and Temporal Intelligence GPT},
   month        = may,
   year         = 2026,
