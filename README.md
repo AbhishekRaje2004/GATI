@@ -4,7 +4,7 @@
 
 [![Dataset](https://img.shields.io/badge/Dataset-Download-blue.svg)](https://zenodo.org/records/20339978)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://www.bheri.in/gatigpt)
-[![Article](https://img.shields.io/badge/Research-Article-red.svg)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7134731)]
+[![Article](https://img.shields.io/badge/Research-Article-red.svg)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7134731)
 
 ---
 
